@@ -8,8 +8,7 @@ As one of the last steps I saved the gathered data in the MySQL database.
 
 Then I made SQL query that retrieves data from the data base grouped by release month.
 
-
-
+All the code is written in Jupyter Notebook: final_presentation.ipynb
 
 
 
